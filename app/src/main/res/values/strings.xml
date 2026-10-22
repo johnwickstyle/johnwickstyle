@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">YOUR_APP_NAME</string>
+
+    <string name="destination_image">Image</string>
+    <string name="destination_video">Video</string>
+    <string name="destination_audio">Audio</string>
+    <string name="destination_documents">Documents</string>
+    <string name="destination_folder">Folder</string>
+
+    <string name="tab_photos">Photos</string>
+    <string name="tab_album">Album</string>
+    <string name="tab_folder">Folder</string>
+    <string name="tab_private">Private</string>
+    <string name="tab_videos">Videos</string>
+    <string name="tab_format">Format</string>
+    <string name="tab_audios">Audios</string>
+    <string name="tab_genre">Genre</string>
+    <string name="tab_documents">Documents</string>
+
+    <string name="camera_action">Take photo</string>
+    <string name="camera_unavailable">No camera app is available.</string>
+
+    <string name="section_unavailable_title">Not available yet</string>
+    <string name="section_unavailable_body">This section is not available yet. It will ship in a later update.</string>
+    <string name="folders_root_title">Folders</string>
+    <string name="folders_root_body">Storage browsing is not available yet. It will ship in a later update.</string>
+
+    <string name="permission_visual_title">Allow access to photos and videos</string>
+    <string name="permission_visual_body">YOUR_APP_NAME needs permission to show your photo and video library. Media stays on this device.</string>
+    <string name="permission_audio_title">Allow access to audio</string>
+    <string name="permission_audio_body">YOUR_APP_NAME needs permission to show your audio library. Media stays on this device.</string>
+    <string name="permission_allow_access">Allow access</string>
+    <string name="permission_open_settings">Open settings</string>
+    <string name="permission_denied_title">Permission needed</string>
+    <string name="permission_denied_body">Access was denied. You can allow it from system settings.</string>
+    <string name="permission_partial_banner">Showing selected media only.</string>
+    <string name="permission_add_photos">Add photos</string>
+    <string name="permission_manage_access">Manage access</string>
+    <string name="permission_camera_denied">Camera permission is required to take a photo.</string>
+
+    <string name="photos_empty_title">No photos yet</string>
+    <string name="photos_empty_body">Take a photo with the camera button, or add photos from another app.</string>
+    <string name="albums_empty_title">No albums yet</string>
+    <string name="media_load_error_title">Could not load photos</string>
+    <string name="media_load_error_body">Check storage access and try again. Nothing was changed on your device.</string>
+    <string name="media_retry">Retry</string>
+
+    <string name="viewer_back">Back</string>
+    <string name="viewer_share">Share</string>
+    <string name="viewer_details">Details</string>
+    <string name="viewer_details_title">Photo details</string>
+    <string name="viewer_detail_name">Name</string>
+    <string name="viewer_detail_type">Type</string>
+    <string name="viewer_detail_size">Size</string>
+    <string name="viewer_detail_dimensions">Dimensions</string>
+    <string name="viewer_detail_taken">Taken</string>
+    <string name="viewer_detail_album">Album</string>
+    <string name="viewer_missing_title">Photo not found</string>
+    <string name="viewer_missing_body">This photo is no longer available. Nothing was changed on your device.</string>
+    <string name="viewer_error_title">Could not open photo</string>
+    <string name="viewer_error_body">Check storage access and try again. Nothing was changed on your device.</string>
+    <string name="viewer_decode_failed">This photo could not be displayed.</string>
+    <string name="viewer_share_unavailable">This photo cannot be shared.</string>
+    <string name="viewer_share_failed">No app is available to share this photo.</string>
+
+    <string name="videos_empty_title">No videos yet</string>
+    <string name="videos_empty_body">Add videos from another app. This library reads only what you allow.</string>
+    <string name="videos_load_error_title">Could not load videos</string>
+    <string name="audio_empty_title">No audio yet</string>
+    <string name="audio_empty_body">Add audio from another app. This library reads only what you allow.</string>
+    <string name="audio_load_error_title">Could not load audio</string>
+    <string name="player_play">Play</string>
+    <string name="player_pause">Pause</string>
+    <string name="player_missing_title">Media not found</string>
+    <string name="player_missing_body">This file is no longer available. Nothing was changed on your device.</string>
+    <string name="player_error_title">Could not play media</string>
+    <string name="player_error_body">Check storage access and try again. Nothing was changed on your device.</string>
+    <string name="player_unsupported_title">Format not supported</string>
+    <string name="player_unsupported_body">This device cannot decode that file. Original media was not changed.</string>
+    <string name="player_io_title">Could not read media</string>
+    <string name="player_io_body">The file could not be opened. Original media was not changed.</string>
+
+    <string name="documents_empty_title">No documents yet</string>
+    <string name="documents_empty_body">Add PDF or text files you choose. Access is read-only. Original files are not changed.</string>
+    <string name="documents_add">Add documents</string>
+    <string name="documents_load_error_title">Could not load documents</string>
+    <string name="documents_missing_title">Document not found</string>
+    <string name="documents_missing_body">This document is no longer available. Nothing was changed on your device.</string>
+    <string name="documents_viewer_error_title">Could not open document</string>
+    <string name="documents_viewer_error_body">Check access and try again. Original files were not changed.</string>
+    <string name="documents_unsupported_title">Cannot preview this format</string>
+    <string name="documents_unsupported_body">In-app viewing supports PDF and text only. You can open it in another app. Original files were not changed.</string>
+    <string name="documents_open_external">Open in another app</string>
+    <string name="documents_open_failed">No app is available to open this document.</string>
+    <string name="documents_text_truncated">Showing the first 1 MB. The original file was not changed.</string>
+    <string name="documents_text_empty">This file has no text to show.</string>
+    <string name="documents_pdf_failed">This PDF could not be displayed.</string>
+    <string name="documents_pdf_page">Page %1$d of %2$d</string>
+    <string name="documents_prev_page">Previous</string>
+    <string name="documents_next_page">Next</string>
+</resources>
+

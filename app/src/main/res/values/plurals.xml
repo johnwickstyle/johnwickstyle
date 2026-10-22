@@ -1,0 +1,6 @@
+<resources>
+    <plurals name="album_item_count">
+        <item quantity="one">%d photo</item>
+        <item quantity="other">%d photos</item>
+    </plurals>
+</resources>
